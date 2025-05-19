@@ -1,5 +1,5 @@
 # Türkçe Şarkı Sözü Üretimi – YZM308 Final Projesi
-
+Kullanılacak dosya Yzm308Final Dosyasıdır hocam bug aldığım için eski dosyaları silemiyorum
 Bu proje, **Türkçe şarkı sözleri** üretmek için eğitimli bir LSTM tabanlı dil modeli içerir. Çalışma, Yıldız Teknik Üniversitesi **YZM308 – Üretken Yapay Zeka** dersi kapsamında final projesi olarak hazırlanmıştır.
 
 ---
