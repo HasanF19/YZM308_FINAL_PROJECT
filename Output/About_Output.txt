@@ -1,0 +1,3 @@
+İsime göre numaralandırılmış olup arttıkça parametre ayarları ve farklı modeller denenmiştir genellikle kalite artmıştır
+
+Kısa süren tokenlar ve tekrarlayan sözler çözülmüştür.
